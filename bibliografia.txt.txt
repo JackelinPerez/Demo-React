@@ -1,0 +1,8 @@
+https://www.tutorialsteacher.com/nodejs/access-sql-server-in-nodejs
+
+Instalacion de express:
+https://expressjs.com/es/starter/installing.html
+
+
+react myFirst-App:
+https://github.com/facebook/create-react-app#create-react-app--
